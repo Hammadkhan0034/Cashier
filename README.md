@@ -1,6 +1,6 @@
 # CashierApp
 
-**TODO: Add description**
+**TODO: run mix test**
 
 ## Installation
 
