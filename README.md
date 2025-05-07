@@ -41,5 +41,6 @@ Any other unknown codes default to 0.0.
 
 
 **Run test**
-run **mix test** in the app directory
+
+run **mix test** in the app directory to run the test cases
 
